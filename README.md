@@ -9,4 +9,4 @@ For this unit a personality quiz is made. I'd tried to personalize it, by making
 
 Here you see the different screens of the game: 
 
-<img src="doc/Start screen.png" width="20%" title="Start Screen"> <img src="doc/Single questions.png" width="20%" title="Single question"> <img src="doc/Multiple questions.png" width="20%" title="Multiple question"> <img src="doc/Slider question.png" width="20%" title="Slider question"> <img src="doc/Result screen.png" width="20%" title="Result screen">
+<img src="doc/Start screen.png" width="20%" title="Start Screen"> <img src="doc/Single question.png" width="20%" title="Single question"> <img src="doc/Multiple question.png" width="20%" title="Multiple question"> <img src="doc/Slider question.png" width="20%" title="Slider question"> <img src="doc/Result screen.png" width="20%" title="Result screen">
