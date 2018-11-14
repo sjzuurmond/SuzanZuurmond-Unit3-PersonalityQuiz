@@ -122,7 +122,7 @@ class QuestionViewController: UIViewController {
         let currentAnswers = currentQuestion.answers
         let totalProgress = Float(questionIndex) / Float(questions.count)
         
-        navigationItem.title = "Question #\(questionIndex+1)"
+        navigationItem.title = "Question \(questionIndex+1)"
         questionLabel.text = currentQuestion.text
         questionProgressView.setProgress(totalProgress, animated: true)
         
