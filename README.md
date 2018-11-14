@@ -7,5 +7,5 @@ End project of Unit 2.
 ## Personality Quiz
 For this unit a personality quiz is made. I'd tried to personalize it, by making the quiz for student from the rowing club. 
 
-Here you see the begin-screen: 
-<img src="doc/Start screen.png" width="80%" title="Start Screen"> 
+Here you see the different screens of the game: 
+<img src="doc/Start screen.png" width="20%" title="Start Screen"> <img src="doc/Single questions.png" width="30%" title="Single question"> <img src="doc/Multiple questions.png" width="30%" title="Multiple question"> <img src="doc/Slider questions.png" width="30%" title="Slider question">
